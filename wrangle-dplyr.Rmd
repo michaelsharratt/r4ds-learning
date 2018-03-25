@@ -1,0 +1,24 @@
+---
+title: "Learning: Chapter 1"
+author: "msharratt"
+date: "25/03/2018"
+output: html_document
+---
+# Data wrangling with dplyr
+### from _"Introduction to Open Data Science"_ 
+
+We are going to use "gapminder" data to learn 'dplyr'. It's going to be amazing!  
+
+> Useful shortcuts 
+
+* Insert R snippet = Cmd Opt i 
+* Insert object assignment = Alt -
+* Insert pipe = Cmd Shift M
+* See all shortcuts = Alt Shift K
+ 
+```{r}
+(x <- seq(1:15))
+```
+
+
+
